@@ -1,6 +1,4 @@
 
-![](https://github.com/CormacKrum/CormacKrum/blob/master/ReadMe.png)
-
 - 🔭 I’m currently working on **Android and Data Science**
 - 🌱 I’m currently learning **Flutter and Web Development**
 - 👯 I’m looking to collaborate on Android
@@ -18,7 +16,7 @@
 </p>
 
 **LANGUAGES AND TOOLS:**  
-
+<br>
 <code><img height="45" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="45" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="45" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -45,7 +43,7 @@
 
 
 **GITHUB STATS:**  
-
+<br>
 <a href="https://github.com/cormacKrum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CormacKrum&theme=dark&hide_langs_below=0" />
 </a>
