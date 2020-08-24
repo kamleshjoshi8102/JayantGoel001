@@ -46,9 +46,9 @@
 **GITHUB STATS:**  
 <br/>
 <a href="https://github.com/cormacKrum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CormacKrum&theme=dark&hide_langs_below=0" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CormacKrum&theme=dark&hide_langs_below=0" />
 </a>
-
 <a href="https://github.com/cormacKrum">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CormacKrum&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
 </a>
+
