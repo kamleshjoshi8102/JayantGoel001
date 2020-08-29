@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **Android and Data Science**
 - 🌱 I’m currently learning **Flutter and Web Development**
-- 👯 I’m looking to collaborate on Android
-- 🤔 I’m looking for help with Internships
+- 👯 I’m looking to collaborate on **Android**
+- 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about Anything
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of the Journey is *It Ends*.**
 
 <br/>
