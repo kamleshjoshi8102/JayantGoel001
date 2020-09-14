@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter and Web Development**
 - 👯 I’m looking to collaborate on **Android or Data Science**
 - 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything
+- 💬 Ask me about Anything [here](https://github.com/CormacKrum/CormacKrum/issues/1)! I am happy to help.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of the Journey is *It Ends*.**
 
@@ -15,9 +15,12 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/CormacKrum" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CormacKrum?label=CormacKrum&style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CormacKrum?label=CormacKrum&style=social">•  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CormacKrum.CormacKrum&style=flat-square&color=0088cc">
 </p>
-
+<p align="center">
+<img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc">
+</p>
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
@@ -55,4 +58,10 @@
 <a href="https://github.com/cormacKrum">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CormacKrum&theme=dark&hide_langs_below=0" />
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
