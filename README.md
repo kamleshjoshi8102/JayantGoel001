@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/CormacKrum" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/CormacKrum?label=CormacKrum&style=social"> •   
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CormacKrum.CormacKrum&style=flat-square&color=FF6600">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CormacKrum.CormacKrum&style=flat-square&color=0088cc">
 </p>
 <p align="center">
   <img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc">
