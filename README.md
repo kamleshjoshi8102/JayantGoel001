@@ -19,7 +19,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=CormacKrum.CormacKrum&style=flat-square&color=f0a500">
 </p>
 <p align="center">
-  <img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=931a25">
+  <img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=f0a500">
 </p>
 
 <br/>
