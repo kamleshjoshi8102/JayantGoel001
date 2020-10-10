@@ -19,7 +19,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=CormacKrum.CormacKrum&style=flat-square&color=f0a500">
 </p>
 <p align="center">
-  <img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=f0a500">
+  <img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 <br/>
 <br/>
 <a href="https://github.com/cormacKrum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CormacKrum&show_icons=true&hide_border=true&title_color=ffbb33 &amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CormacKrum&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&&count_private=true"/>
 </a>
 <a href="https://github.com/cormacKrum">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CormacKrum&theme=dark&langs_count=15&layout=compact" />
