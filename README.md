@@ -24,6 +24,7 @@
 
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CormacKrum&&theme=monokai&margin-w=15&margin-h=15)](https://github.com/CormacKrum)
 
 **LANGUAGES AND TOOLS:**  
 <br/>
