@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about Anything [here](https://github.com/CormacKrum/CormacKrum/issues/1)! I am happy to help.
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Best Part Of The Journey Is : It Ends **
+- ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
 
 <br/>
 <br/>
