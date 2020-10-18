@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter and Web Development**
 - 👯 I’m looking to collaborate on **Android or Data Science**
 - 🤔 I’m looking for help with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/CormacKrum/CormacKrum/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
 
@@ -14,18 +14,18 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/CormacKrum" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CormacKrum?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/cormacKrum?label=Stars" alt="Total Stars">
+  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
 </p>
 <p align="center">
-  <img src="https://gitwar.herokuapp.com/badge?username=CormacKrum&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
+  <img src="https://gitwar.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
 </p>
 
 <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CormacKrum&column=7&margin-w=15&margin-h=15)](https://github.com/CormacKrum)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15)](https://github.com/JayantGoel001)
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="left" height="300" width="300" alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%; "></a>
 <br/>
@@ -61,11 +61,11 @@
 **GITHUB STATS:**  
 <br/>
 <br/>
-<a href="https://github.com/cormacKrum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CormacKrum&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<a href="https://github.com/JayantGoel001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </a>
-<a href="https://github.com/cormacKrum">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CormacKrum&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact" />
+<a href="https://github.com/JayantGoel001">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact" />
 </a>
 #
 <div align="center">
