@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/jayant.goel.12/">
-    <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Facebook-f_Logo-Black-Logo.wine.svg"/>
+    <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.png"/>
   </a>
   <a href="https://www.linkedin.com/in/jayant-goel-a136861b9/">
     <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/>
