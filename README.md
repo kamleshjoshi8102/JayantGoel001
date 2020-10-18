@@ -93,17 +93,18 @@
 </h1>
 
 <p align="center">
+  <br>
   <a href="https://www.linkedin.com/in/jayant-goel-a136861b9/">
-    <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/>
+    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/">
-    <img  height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.png"/>
+    <img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.png"/>
   </a>
   <a href="https://www.instagram.com/jayantgoel001/">
-    <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.png"/>
+    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.png"/>
   </a>
   <a href="https://twitter.com/JayantGoel6">
-    <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.png"/>
+    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.png"/>
   </a>
 </p>
 
