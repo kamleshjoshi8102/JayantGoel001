@@ -97,11 +97,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/jayant.goel.12/">
-    <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.png"/>
-  </a>
   <a href="https://www.linkedin.com/in/jayant-goel-a136861b9/">
     <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/>
+  </a>
+  <a href="https://www.facebook.com/jayant.goel.12/">
+    <img  height="55" width="52" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.png"/>
   </a>
   <a href="https://www.instagram.com/jayantgoel001/">
     <img height="50" width="50" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.png"/>
