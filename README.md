@@ -105,6 +105,9 @@
   <a href="https://twitter.com/JayantGoel6">
     <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.png"/>
   </a>
+  <a href="https://www.hackerrank.com/JayantGoel001/">
+    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/hr.png"/>
+  </a>
 </p>
 
 #
