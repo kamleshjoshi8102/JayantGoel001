@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
 </p>
 <p align="center">
-  <img src="https://gitwar.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
+  <img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
 </p>
 
 <br/>
