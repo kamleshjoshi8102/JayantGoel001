@@ -25,16 +25,12 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
 
-<br/>
-<br/>
-<br/>
-
 <p align="center">
-  <img height="100" width="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.jpg">
+  <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.jpg">
   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
-  <img height="100" width="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.jpg">
+  <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.jpg">
 </p>
 <p align="center">
   <img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
