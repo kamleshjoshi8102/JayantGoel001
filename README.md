@@ -25,6 +25,9 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
 
+<br/>
+<br/>
+
 <p align="center">
   <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.jpg">
   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
