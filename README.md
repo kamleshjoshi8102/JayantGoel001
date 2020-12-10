@@ -129,7 +129,7 @@
   </a>
   
   <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/he.png"/>
+    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/he.svg"/>
   </a>
   
   <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
