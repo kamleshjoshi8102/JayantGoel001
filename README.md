@@ -133,7 +133,7 @@
   </a>
   
   <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cc.png"/>
+    <img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cc.svg"/>
   </a>
 </p>
 
