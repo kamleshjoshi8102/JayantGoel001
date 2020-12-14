@@ -37,7 +37,7 @@
   <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
 </p>
 <p align="center">
-  <img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57">
+  <code><img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score"></code>
   
 </p>
 
