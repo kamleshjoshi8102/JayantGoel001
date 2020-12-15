@@ -24,7 +24,7 @@
 - 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.jpg" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
