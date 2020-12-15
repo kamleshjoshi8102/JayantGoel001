@@ -24,6 +24,7 @@
 - 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
+- 🏠 Hogwarts House: **Slytherin**
 
 <br/>
 <br/>
