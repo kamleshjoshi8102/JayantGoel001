@@ -27,7 +27,6 @@
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
 <br/>
-<br/>
 
 <p align="center">
   <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
@@ -39,7 +38,6 @@
 <p align="center">
   <code><img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score"></code>
 </p>
-<br/>
 
 #
 
@@ -51,6 +49,8 @@
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15)](https://github.com/JayantGoel001)
+
+<br/>
 
 #
 
