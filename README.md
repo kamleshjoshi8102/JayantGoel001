@@ -44,9 +44,9 @@
 <br/>
 <p align="center">
   <a>
-    <img height="150" width="170" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
+    <img height="150" width="180" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-    <img height="150" width="170" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
+    <img height="150" width="180" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
   </a>
 </p>
 <br/>
@@ -84,8 +84,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <br/>
-<br/>
-<br/>
 
 #
 
@@ -108,7 +106,11 @@
 <br>
 <h1>
   <a id="user-content-connect-with-me-" class="anchor" aria-hidden="true" href="#connect-with-me-">
-  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect With Me <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+    <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+    </path>
+    </svg>
+  </a>Connect With Me <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif">
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h1>
@@ -129,10 +131,10 @@
   </a>
   <a href="https://dev.to/jayantgoel001">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>
-        
+  </a>     
 </p>
 <br/>
+
 <p align="center">
   <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/hr.png"/></code>
@@ -152,6 +154,7 @@
 </p>
 
 #
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
