@@ -39,13 +39,7 @@
 </p>
 <p align="center">
   <code><img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score"></code>
-  
 </p>
-
-<br/>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15)](https://github.com/JayantGoel001)
 <br/>
 
 <p align="center">
@@ -55,8 +49,11 @@
 </p>
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15)](https://github.com/JayantGoel001)
+
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="left" height="300" width="300" alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%; "></a>
 <br/>
+
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
@@ -88,8 +85,11 @@
 
 
 <details open="">
-<summary><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> <strong>Github Stats</strong>:</summary>
-  <br>
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats</strong>:
+</summary>
+<br>
 <p align="center">
 <a href="https://github.com/JayantGoel001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
