@@ -44,9 +44,9 @@
 <br/>
 <p align="center">
   <a>
-    <img height="150" width="180" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-    <img height="150" width="180" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
   </a>
 </p>
 <br/>
