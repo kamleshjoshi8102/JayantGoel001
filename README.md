@@ -103,7 +103,6 @@
 </p>
 </details>
 <br>
-<br>
 <h1>
   <a id="user-content-connect-with-me-" class="anchor" aria-hidden="true" href="#connect-with-me-">
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
