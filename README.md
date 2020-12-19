@@ -27,13 +27,12 @@
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
 <br/>
+<br/>
 
 <p align="center">
-  <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
-  <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
 </p>
 <p align="center">
   <code><img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score"></code>
@@ -41,16 +40,17 @@
 
 #
 
+<br/>
 <p align="center">
- <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
- </a>
+  <a>
+    <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+    <img height="80" width="120" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
+  </a>
 </p>
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15)](https://github.com/JayantGoel001)
-
-<br/>
 
 #
 
