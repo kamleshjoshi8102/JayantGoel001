@@ -36,9 +36,9 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "metadata"
           plugin_gists: yes
-#           plugin_pagespeed: yes
-#           plugin_pagespeed_detailed: yes
-#           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_followup: yes
           plugin_languages: yes
           plugins_errors_fatal: yes
