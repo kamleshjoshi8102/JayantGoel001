@@ -5,9 +5,9 @@ on:
   push:
     branches: "master"
 jobs:
-# The job below generates the images displayed on JayantGoel001/JayantGoel001
+# The job below generates the images displayed on lowlighter/lowlighter
   github-metrics-personal:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
   
       - name: Personal metrics
@@ -42,14 +42,15 @@ jobs:
           plugin_gists: yes
           plugin_followup: yes
           plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
           
-# The job below generates the images displayed on JayantGoel001/metrics
+# The job below generates the images displayed on lowlighter/metrics
   github-metrics:
     needs: [github-metrics-personal]
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
 
       - name: Classic template
