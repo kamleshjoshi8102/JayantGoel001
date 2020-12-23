@@ -28,6 +28,7 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           
+          
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
         with:
