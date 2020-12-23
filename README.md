@@ -160,9 +160,12 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/JayantGoel001?pagespeed=1&languages=1&followup=1&isocalendar=1&pagespeed.detailed=true&isocalendar.duration=full-year"/>
+  <img width="65%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
 </p>
-<br/>
+
+<p align="center">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="65%"/>
+</p>
 
 <div align="center">
 
