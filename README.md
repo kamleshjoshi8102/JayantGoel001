@@ -160,13 +160,13 @@
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
+  <img width="70%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="65%"/>
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="70%"/>
 </p>
 
 <div align="center">
