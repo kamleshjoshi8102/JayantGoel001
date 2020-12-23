@@ -160,7 +160,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/JayantGoel001"/>
+  <img src="https://metrics.lecoq.io/JayantGoel001?pagespeed=1&languages=1&followup=1&isocalendar=1&pagespeed.detailed=true&isocalendar.duration=full-year"/>
 </p>
 <br/>
 
