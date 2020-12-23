@@ -34,7 +34,7 @@ jobs:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-#           base: "metadata"
+          base: "metadata"
 #           plugin_pagespeed: yes
 #           plugin_pagespeed_detailed: yes
 #           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
