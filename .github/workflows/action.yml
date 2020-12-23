@@ -7,7 +7,7 @@ on:
 jobs:
 # The job below generates the images displayed on lowlighter/lowlighter
   github-metrics-personal:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
   
       - name: Personal metrics
