@@ -153,6 +153,15 @@
 
 #
 
+<p align="center">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/JayantGoel001"/>
+</p>
+<br/>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
