@@ -157,19 +157,12 @@
   <a href="https://github.com/JayantGoel001">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
+  <h4 align="center"><code>📊 Github Metrics</code></h4>
 </p>
-
-<h4 align="center"><code>📊 Github Metrics</code></h4>
 
 <p align="center">
   <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
-</p>
-
-
-
-<p align="center">
-  
 </p>
 
 <div align="center">
