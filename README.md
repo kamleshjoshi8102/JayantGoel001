@@ -154,7 +154,9 @@
 #
 
 <p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  <a href="https://github.com/JayantGoel001">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  </a>
 </p>
 
 <p align="center">
