@@ -157,7 +157,7 @@
   <a href="https://github.com/JayantGoel001">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
-  <h4 align="center"><code>📊 Github Metrics</code></h4>
+  <h4 align="center"><code>📊 GitHub Metrics</code></h4>
 </p>
 
 <p align="center">
