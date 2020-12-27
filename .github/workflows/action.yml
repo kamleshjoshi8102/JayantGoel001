@@ -5,7 +5,7 @@ on:
   push:
     branches: "master"
 jobs:
-
+# The job below generates the images displayed on lowlighter/lowlighter
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
