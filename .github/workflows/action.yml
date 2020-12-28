@@ -45,4 +45,5 @@ jobs:
           plugins_errors_fatal: yes
           plugin_posts: yes
           plugin_posts_source: dev.to
+          config_timezone: Asia/Kolkata
           
