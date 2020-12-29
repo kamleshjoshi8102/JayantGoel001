@@ -22,7 +22,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_topics: yes
-          plugin_topics_mode: mastered
+          plugin_topics_sort: random
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: yes
@@ -44,6 +44,7 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
           plugins_errors_fatal: yes
+          plugin_pagespeed_screenshot: yes
           plugin_posts: yes
           plugin_posts_source: dev.to
           config_timezone: Asia/Kolkata
