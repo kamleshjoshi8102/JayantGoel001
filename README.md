@@ -111,7 +111,6 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>WakaTime Stats</strong>:
 </summary>
-<br>
 <p align="center">
 <a href="https://github.com/JayantGoel001">
   <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
@@ -128,8 +127,6 @@
   <!--END_SECTION:waka-->
 </p>
 </details>
-<br>
-
 
 <h1>
   <a id="user-content-connect-with-me-" class="anchor" aria-hidden="true" href="#connect-with-me-">
