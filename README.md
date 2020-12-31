@@ -113,13 +113,13 @@
 </summary>
 <p align="center">
   <a href="https://github.com/JayantGoel001">
-    <img align="center" width="300px" height="300px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+    <img align="center" width="270px" height="270px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
   </a>
   <a href="https://github.com/JayantGoel001">
-    <img align="center" width="300px" height="300px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg"/>
+    <img align="center" width="270px" height="270px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg"/>
   </a>
   <a href="https://github.com/JayantGoel001">
-    <img align="center" height="300px" width="300px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+    <img align="center" height="270px" width="270px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
   </a>
 </p>
 </details>
