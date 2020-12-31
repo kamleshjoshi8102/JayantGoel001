@@ -125,7 +125,6 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1025-blue)
 
 **🐱 My Github Data** 
 
@@ -203,12 +202,6 @@ C++                      11 repos            ██░░░░░░░░░�
 JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
