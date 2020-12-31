@@ -94,6 +94,7 @@
   <strong>Github Stats</strong>:
 </summary>
 <br>
+  
 <p align="center">
 <a href="https://github.com/JayantGoel001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -104,6 +105,32 @@
 </p>
 </details>
 <br>
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>WakaTime Stats</strong>:
+</summary>
+<br>
+<p align="center">
+<a href="https://github.com/JayantGoel001">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+</a>
+<a href="https://github.com/JayantGoel001">
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+</a>
+</p>
+<p align="center">
+  <a href="https://github.com/JayantGoel001">
+    <img align="center" width="600px" height="400px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg"/>
+  </a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</p>
+</details>
+<br>
+
+
 <h1>
   <a id="user-content-connect-with-me-" class="anchor" aria-hidden="true" href="#connect-with-me-">
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
