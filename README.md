@@ -106,6 +106,8 @@
 </details>
 <br>
 
+#
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
@@ -124,6 +126,7 @@
 <a target="_blank">
   <img align="right" height="400" width="400"  src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 </a>
+<br>
 <br>
 
 <!--START_SECTION:waka-->
