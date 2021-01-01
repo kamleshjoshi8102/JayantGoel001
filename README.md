@@ -124,9 +124,8 @@
 </details>
 
 <a target="_blank">
-  <img align="right" height="380" width="380"  src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+  <img align="right" height="375" width="375" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 </a>
-<br>
 <br>
 <br>
 
