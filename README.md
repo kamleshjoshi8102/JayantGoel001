@@ -125,12 +125,13 @@
 </details>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1200-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 5,360 Contributions in the Year 2020
+> 🏆 28 Contributions in the Year 2021
  > 
-> 📦 551.0 kB Used in Github's Storage 
+> 📦 550.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -202,6 +203,12 @@ C++                      11 repos            ██░░░░░░░░░�
 JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 ```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
