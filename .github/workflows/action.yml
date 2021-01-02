@@ -31,7 +31,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_padding: 10%
           plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_stars_limit: 4
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
