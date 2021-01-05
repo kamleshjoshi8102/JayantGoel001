@@ -53,7 +53,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/blob/master/github.gif"></a>
 <br/>
 
 **LANGUAGES AND TOOLS:**  
