@@ -7,11 +7,13 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   </a>
 </h1>
-<a target="_blank" rel="noopener noreferrer" >
+
+<br/>
+
+<a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
-<br/>
 <br/>
 
 - 🔭 I’m currently working on **Android and Data Science**
