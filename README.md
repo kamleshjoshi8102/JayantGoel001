@@ -8,12 +8,12 @@
   </a>
 </h1>
 
+<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
 <br/>
-
 
 - 🔭 I’m currently working on **Android and Data Science**
 - 🌱 I’m currently learning **Flutter and Web Development**
