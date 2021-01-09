@@ -33,6 +33,9 @@ jobs:
           plugin_stars_limit: 4
           plugin_stargazers: yes
           config_padding: 10%
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
