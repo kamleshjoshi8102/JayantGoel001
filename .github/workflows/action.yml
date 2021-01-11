@@ -36,6 +36,10 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 28
+          plugin_people_size: 28
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
