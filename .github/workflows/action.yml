@@ -42,6 +42,7 @@ jobs:
           plugin_people_size: 28
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          repositories_forks: yes
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
