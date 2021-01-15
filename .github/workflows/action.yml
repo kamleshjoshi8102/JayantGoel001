@@ -32,17 +32,17 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_stargazers: yes
-          config_padding: 10%
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_people: yes
           plugin_people_types: followers, following
-          plugin_people_limit: 28
+          plugin_people_limit: 14
           plugin_people_size: 28
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           repositories_forks: yes
+          config_padding: 10%
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
