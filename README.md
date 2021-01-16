@@ -219,7 +219,7 @@ JavaScript               9 repos             ██░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/jayant-goel-a136861b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
