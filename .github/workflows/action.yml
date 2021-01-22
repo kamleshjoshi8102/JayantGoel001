@@ -43,7 +43,6 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           repositories_forks: yes
           config_padding: 10%
-          plugin_languages_colors : "rainbow"
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
@@ -64,4 +63,5 @@ jobs:
           plugin_posts_source: dev.to
           config_timezone: Asia/Kolkata
           config_padding: 10%
+          plugin_languages_colors : "rainbow"
           
