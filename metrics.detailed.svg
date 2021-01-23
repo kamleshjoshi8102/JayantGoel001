@@ -514,6 +514,22 @@
     margin: 0 2px;
   }
 
+/* Projects */
+  .project .description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    width: 420px;
+    margin-left: 37px;
+    max-height: 38px;
+    font-size: 12px;
+    white-space: normal;
+    /* May not work in all browsers */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -654,21 +670,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="368.6756816498298" height="8" fill="#ff0000"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="366.5614381876741" height="8" fill="#ff0000"/>
         
-          <rect mask="url(#languages-bar)" x="368.6756816498298" y="0" width="80.1879556959524" height="8" fill="#ffa500"/>
+          <rect mask="url(#languages-bar)" x="366.5614381876741" y="0" width="82.35999244478961" height="8" fill="#ffa500"/>
         
-          <rect mask="url(#languages-bar)" x="448.8636373457822" y="0" width="3.6254498790313017" height="8" fill="#ffff00"/>
+          <rect mask="url(#languages-bar)" x="448.9214306324638" y="0" width="3.6030465756718897" height="8" fill="#ffff00"/>
         
-          <rect mask="url(#languages-bar)" x="452.4890872248135" y="0" width="1.5387143749191867" height="8" fill="#008000"/>
+          <rect mask="url(#languages-bar)" x="452.5244772081357" y="0" width="1.5553074787337506" height="8" fill="#008000"/>
         
-          <rect mask="url(#languages-bar)" x="454.0278015997327" y="0" width="1.4627733612413643" height="8" fill="#0000ff"/>
+          <rect mask="url(#languages-bar)" x="454.07978468686946" y="0" width="1.4543847986928926" height="8" fill="#0000ff"/>
         
-          <rect mask="url(#languages-bar)" x="455.490574960974" y="0" width="1.1122571370108256" height="8" fill="#4b0082"/>
+          <rect mask="url(#languages-bar)" x="455.53416948556236" y="0" width="1.105878678931796" height="8" fill="#4b0082"/>
         
-          <rect mask="url(#languages-bar)" x="456.60283209798484" y="0" width="1.0533302724896525" height="8" fill="#ee82ee"/>
+          <rect mask="url(#languages-bar)" x="456.64004816449415" y="0" width="1.0291785700435216" height="8" fill="#ee82ee"/>
         
-          <rect mask="url(#languages-bar)" x="457.65616237047453" y="0" width="0.6988744180255391" height="8" fill="#162221"/>
+          <rect mask="url(#languages-bar)" x="457.6692267345377" y="0" width="0.6948665847381195" height="8" fill="#162221"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -851,7 +867,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.91 s
+                1.29 s
               
             </div>
             
@@ -895,7 +911,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.46 s
+                1.58 s
               
             </div>
             
@@ -974,7 +990,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Kolkata</span>
-          <span>Last updated Sat, 23 Jan 2021 01:14:35 GMT with lowlighter/metrics@3.3.0-beta</span>
+          <span>Last updated Sat, 23 Jan 2021 19:40:09 GMT with lowlighter/metrics@3.3.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
