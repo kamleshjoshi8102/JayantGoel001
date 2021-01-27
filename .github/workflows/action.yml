@@ -64,4 +64,3 @@ jobs:
           config_timezone: Asia/Kolkata
           config_padding: 10%
           plugin_languages_colors : "rainbow"
-          
