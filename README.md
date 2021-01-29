@@ -15,9 +15,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Android and Data Science**
-- 🌱 I’m currently learning **Flutter and Web Development**
-- 👯 I’m looking to collaborate on **Android or Data Science**
+- 🔭 I’m currently working on **Android, Data Science and Web Development**
+- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
+- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
 - 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
 - 😄 Pronouns: **He/Him**
