@@ -90,7 +90,7 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats</strong>:
+  <strong>Github Stats : </strong>
 </summary>
 <br>
   
@@ -109,7 +109,7 @@
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>WakaTime Stats : </strong>:
+  <strong>WakaTime Stats : </strong>
 </summary>
 
 <a target="_blank">
