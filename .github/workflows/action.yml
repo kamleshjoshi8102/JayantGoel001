@@ -16,7 +16,7 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "header, activity, community, repositories"
+          base: "header, activity, community, repositories,metadata"
           plugin_lines: yes
           plugin_music: no
           plugin_isocalendar: yes
@@ -44,6 +44,18 @@ jobs:
           repositories_forks: yes
           config_padding: 10%
           
+          plugin_gists: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_followup: yes
+          plugin_languages: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_languages_colors : "rainbow"
+          plugin_languages_details: bytes-size, percentage
+          
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
         with:
@@ -51,6 +63,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "metadata"
+          
           plugin_gists: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
