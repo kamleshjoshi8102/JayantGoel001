@@ -51,7 +51,6 @@
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
   </a>
 </p>
-<br/>
 
 #
 
