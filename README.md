@@ -13,8 +13,6 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
-<br/>
-
 - 🔭 I’m currently working on **Android, Data Science and Web Development**
 - 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
 - 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
