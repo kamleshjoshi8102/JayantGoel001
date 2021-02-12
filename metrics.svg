@@ -1241,37 +1241,37 @@
               <div class="topics fill-width">
                 
                   
-                    <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
-                  
-                    <div class="label" title="Python is a dynamically typed programming language.">python</div>
-                  
-                    <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
-                  
-                    <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
-                  
-                    <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
+                    <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
                   
                     <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                   
-                    <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
+                    <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
                   
-                    <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
+                    <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
+                  
+                    <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
                   
                     <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                   
+                    <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
+                  
                     <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
                   
-                    <div class="label" title="Git is the most widely used version control system.">git</div>
+                    <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
+                  
+                    <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                   
                     <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                   
-                    <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
-                  
-                    <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
+                    <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
                   
                     <div class="label" title="scikit-learn is a Python module for machine learning.">scikit-learn</div>
                   
-                    <div class="label" title="JSON">and 1 more...</div>
+                    <div class="label" title="Git is the most widely used version control system.">git</div>
+                  
+                    <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                  
+                    <div class="label" title="Deep learning">and 1 more...</div>
                   
                 
               </div>
@@ -1309,13 +1309,13 @@
             
               
                 <div class="tweet">
-                  Getting started with Amazon S3 and Python  <span class="link">t.co/Oa2lhaTOkC</span>  via  <span class="mention">@SQLShack</span> 
-                  <div class="date">Mon, 08 Feb 2021 12:46:53 GMT</div>
+                  Learn Data Science using Python: How to convert your YOLOv4 weights to TensorFlow 2...  <span class="link">t.co/QHEirEJgkJ</span> 
+                  <div class="date">Fri, 12 Feb 2021 22:08:49 GMT</div>
                 </div>
               
                 <div class="tweet">
-                  Success! Just solved Two Characters on  <span class="mention">@HackerRank</span> . Can you complete the challenge?  <span class="link">t.co/zKivllfR72</span>   <span class="hashtag">#programming</span> 
-                  <div class="date">Sun, 07 Feb 2021 11:49:28 GMT</div>
+                  Getting started with Amazon S3 and Python  <span class="link">t.co/Oa2lhaTOkC</span>  via  <span class="mention">@SQLShack</span> 
+                  <div class="date">Mon, 08 Feb 2021 12:46:53 GMT</div>
                 </div>
               
             
