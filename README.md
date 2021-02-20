@@ -282,4 +282,4 @@ Kotlin                   9 repos             ██░░░░░░░░░�
 
 #
 
-![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
