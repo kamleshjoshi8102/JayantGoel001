@@ -208,6 +208,8 @@ JavaScript               9 repos             ██░░░░░░░░░�
   </a>
 </p>
 
+#
+
 <p align="center">
   <a href="https://github.com/JayantGoel001">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -221,6 +223,8 @@ JavaScript               9 repos             ██░░░░░░░░░�
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
 </p>
+
+#
 
 <h1>
   Connect With Me 
@@ -267,13 +271,14 @@ JavaScript               9 repos             ██░░░░░░░░░�
   </a>
 </p>
 
+#
+
 <p align="center">
   <a href="https://archiveprogram.github.com/">
     <img alt="Github Arctic Vault Contributor" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/arctic.gif" width="100px" height="100px">
   </a>
 </p>
 
-#
 
 <div align="center">
 
