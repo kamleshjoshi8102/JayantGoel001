@@ -224,8 +224,6 @@ JavaScript               9 repos             ██░░░░░░░░░�
   </a>
 </p>
 
-#
-
 <h1>
   Connect With Me 
   <a target="_blank">
@@ -271,7 +269,6 @@ JavaScript               9 repos             ██░░░░░░░░░�
   </a>
 </p>
 
-#
 
 <p align="center">
   <a href="https://archiveprogram.github.com/">
