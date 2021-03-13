@@ -50,6 +50,10 @@ jobs:
           plugin_reactions_limit: 200
           plugin_reactions_days: 14
           plugin_reactions_details: percentage
+          plugin_achievements: yes
+          plugin_achievements_threshold: B       # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
+          plugin_achievements_limit: 0
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
