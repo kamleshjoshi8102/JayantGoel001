@@ -256,7 +256,7 @@ JavaScript               9 repos             ██░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/hr.png"/></code>
   </a>
   
-  <a href="http://www.codeforces.com/profile/cormackrum" target="_blank">
+  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cf.png"/></code>
   </a>
   
