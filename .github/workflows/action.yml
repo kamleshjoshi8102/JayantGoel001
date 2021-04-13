@@ -57,7 +57,7 @@ jobs:
           plugin_achievements_limit: 0
           plugin_notable: yes
           plugin_tweets_attachments: yes
-          config_padding: 6%, 8%
+          config_padding: 6%, 5%
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
