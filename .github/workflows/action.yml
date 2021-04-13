@@ -58,6 +58,7 @@ jobs:
           plugin_notable: yes
           plugin_tweets_attachments: yes
           config_padding: 6%, 5%
+          plugin_support: yes
           
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
